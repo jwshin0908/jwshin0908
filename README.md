@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=b3e5e6&height=300&section=header&text=Jaewook%20Shin&fontSize=90&fontColor=042626)
+![header](https://capsule-render.vercel.app/api?type=waving&color=b3e5e6&height=150&section=header&text=Jaewook%20Shin&fontSize=60&fontColor=042626)
 
 > **About Me**
 - 🏫 Undergraduate student at Yonsei University, Korea (2019.03 ~)
