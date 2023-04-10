@@ -13,7 +13,7 @@
 **:clipboard: Certiciates**
 + SQL 개발자(SQLD) / 2022.06
 + 데이터분석 준전문가(ADsP) / 2021.12
-+ 워드프로세서 / 2020.3
++ 워드프로세서 / 2020.03
 + 정보기술자격(ITQ) OA Master / 2012.01
 
 **:trophy: Prize**
