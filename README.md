@@ -1,4 +1,10 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=b3e5e6&height=300&section=header&text=Jaewook%20Shin&fontSize=90&fontColor=042626)
+
+### Major
+Undergraduate in Department of Industrial Engineering & Applied Statistics, Yonsei University, Korea
+<br/>
+<br/>
+<br/>
 
 ### 📊 GitHub Stats
 
