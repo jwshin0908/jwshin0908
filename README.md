@@ -10,7 +10,7 @@
 **:mortar_board: Major**  
 + Undergraduate student, Department of Industrial Engineering & Applied Statistics at Yonsei University, Korea / 2019.03 ~
 
-**:clipboard: Certiciates**
+**:clipboard: Certificates**
 + SQL 개발자(SQLD, SQL Developer) / 2022.06
 + 데이터분석 준전문가(ADsP, Advanced Data Analytics Semi-Professional) / 2021.12
 + 워드프로세서(Word Processor Specialist) / 2020.03
