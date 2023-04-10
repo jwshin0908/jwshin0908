@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=b3e5e6&height=300&section=header&text=Jaewook%20Shin&fontSize=90&fontColor=042626)
 
-## :mortar_board:Major
-2019.03 ~ : Undergraduate in Department of Industrial Engineering & Applied Statistics, Yonsei University, Korea
+> **About Me**
+- 🏫 Undergraduate student at Yonsei University, Korea (2019.03 ~)
+- :mortar_board: Majoring Department of Industrial Engineering & Applied Statistics
 <br/>
 <br/>
 <br/>
