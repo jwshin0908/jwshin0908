@@ -4,17 +4,17 @@
 **:computer: Experience**
 + 빅데이터 연합동아리 BOAZ 19기 공동대표 / 2022.07 ~
 + 모두의연구소 서포터즈 1기 / 2022.07 ~
-+ 한국대학생IT경영학회(KUSITMS) 22기 교육기획팀 / 2020.06 ~ 2020.11
-+ 한국대학생IT경영학회(KUSITMS) 21기 학회원 / 2020.02 ~ 2020.06
++ 한국대학생IT경영학회(KUSITMS, Korean University Students IT & Management Society) 22기 교육기획팀 / 2020.06 ~ 2020.11
++ 한국대학생IT경영학회(KUSITMS, Korean University Students IT & Management Society) 21기 학회원 / 2020.02 ~ 2020.06
 
 **:mortar_board: Major**  
 + Undergraduate student, Department of Industrial Engineering & Applied Statistics at Yonsei University, Korea / 2019.03 ~
 
 **:clipboard: Certiciates**
-+ SQL 개발자(SQLD) / 2022.06
-+ 데이터분석 준전문가(ADsP) / 2021.12
-+ 워드프로세서 / 2020.03
-+ 정보기술자격(ITQ) OA Master / 2012.01
++ SQL 개발자(SQLD, SQL Developer) / 2022.06
++ 데이터분석 준전문가(ADsP, Advanced Data Analytics Semi-Professional) / 2021.12
++ 워드프로세서(Word Processor Specialist) / 2020.03
++ 정보기술자격(ITQ, Information Technology Qualification) OA Master / 2012.01
 
 **:trophy: Awards**
 + 2023 지역 치안 안전 데이터 분석 경진대회(경찰대학 주관), 최우수상 / 2023.02
