@@ -18,17 +18,15 @@
 
 **:trophy: Awards**
 + 2023 지역 치안 안전 데이터 분석 경진대회(경찰대학 주관), 최우수상 / 2023.02
-+ 제16회 한국대학생산업공학프로젝트경진대회(대한산업공학회 주관), 금상 / 2020.11
++ 제16회 한국대학생 산업공학 프로젝트 경진대회(대한산업공학회 주관), 금상 / 2020.11
 <br/>
 
 ## Skills & Tools
 <br/>
 
 ## GitHub Stats & solved.ac
-
 | <a href="https://github.com/jwshin0908/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jwshin0908&theme=buefy&show_icons=true" alt="jaewook's GitHub stats" /></a> | <a href="https://solved.ac/jwshin0908/"><img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwshin0908" /></a> |
 | ------------- | ------------- |
-
 <br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjwshin0908&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
