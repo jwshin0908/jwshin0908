@@ -2,7 +2,8 @@
 
 ## About Me
 **:computer: Experience**
-+ 빅데이터 연합동아리 BOAZ 19기 공동대표 / 2022.07 ~
++ 빅데이터 연합동아리 BOAZ 19기 데이터 분석 부문 대표 / 2023.01 ~
++ 빅데이터 연합동아리 BOAZ 19기 데이터 분석, 시각화 부문 팀원, 운영지원팀 / 2022.07 ~ 2023.01
 + 모두의연구소 서포터즈 1기 / 2022.07 ~
 + 한국대학생IT경영학회(KUSITMS, Korean University Students IT & Management Society) 22기 교육기획팀 / 2020.06 ~ 2020.11
 + 한국대학생IT경영학회(KUSITMS, Korean University Students IT & Management Society) 21기 학회원 / 2020.02 ~ 2020.06
