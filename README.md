@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=b3e5e6&height=200&section=header&text=Jaewook%20Shin&fontSize=60&fontColor=042626)
+![header](https://capsule-render.vercel.app/api?type=waving&color=b3e5e6&height=200&section=header&text=Jaewook%20Shin&fontSize=60)
 
 ## About Me
 **:computer: Experience**
