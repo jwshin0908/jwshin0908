@@ -20,14 +20,77 @@
 **:trophy: Awards**
 + 2023 지역 치안 안전 데이터 분석 경진대회(경찰대학 주관), 최우수상 / 2023.02
 + 제16회 한국대학생 산업공학 프로젝트 경진대회(대한산업공학회 주관), 금상 / 2020.11
-<br/>
+<br>
 
 ## Skills & Tools
-<br/>
+<div align="left">
+
+#### 📘 Proficient in
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+  
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/>
+
+<br>
+
+#### 📕 Python Module
+
+<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white"/>
+  
+<img src="https://img.shields.io/badge/Matplotlib-0C1528?style=flat&logo=Soundcharts&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/scikit%20learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
+
+<br>
+
+#### 📙 Experience with
+
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SAS-0072C6?style=flat&logo=SAS&logoColor=blue"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/SPSS-052FAD?style=flat&logo=IBM&logoColor=black"/>
+  
+<img src="https://img.shields.io/badge/QGIS-589632?style=flat&logo=Qgis&logoColor=black"/>
+
+<br>
+
+#### 📗 Environment
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
+  
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+  
+<img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/>
+  
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
+
+</div>
+
+<br>
 
 ## GitHub Stats & solved.ac
-| <a href="https://github.com/jwshin0908/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jwshin0908&theme=buefy&show_icons=true" alt="jaewook's GitHub stats" /></a> | <a href="https://solved.ac/jwshin0908/"><img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwshin0908" /></a> |
+| <a href="https://github.com/jwshin0908/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jwshin0908&text_color=080358&icon_color=080358&border_color=080358&ring_color=080358&show_icons=true" alt="jaewook's GitHub stats" /></a> | <a href="https://solved.ac/jwshin0908/"><img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jwshin0908" /></a> |
 | ------------- | ------------- |
-<br/>
+<br>
+
+</div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjwshin0908&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=b3e5e6&height=200&section=footer)
