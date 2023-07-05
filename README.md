@@ -10,7 +10,7 @@
 + 한국대학생IT경영학회(KUSITMS, Korean University Students IT & Management Society) 21기 학회원 / 2020.02 ~ 2020.06
 
 **:mortar_board: Major**  
-+ Undergraduate student, Department of Industrial Engineering & Applied Statistics at Yonsei University, Korea / 2019.03 ~
++ 연세대학교 산업공학과 & 응용통계학과(Department of Industrial Engineering & Applied Statistics at Yonsei University, Korea) / 2019.03 ~
 
 **:clipboard: Certificates**
 + SQL 개발자(SQLD, SQL Developer) / 2022.06
