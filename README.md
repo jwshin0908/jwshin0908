@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=b3e5e6&height=200&section=header&text=Jaewook%20Shin&fontSize=60)
 
 ## About Me
-**:computer: Experience**
+**:computer: Career**
++ 현대모비스 데이터사이언스팀 인턴(Hyundai Mobis Company, Data Science Team, Assistant Manager) / 2023.08 ~
+
+**:books: Experience**
 + 2023 제15회 FIELD CAMP / 2023.08
 + LG Aimers 3기 / 2023.07 ~
 + 빅데이터 연합동아리 BOAZ 19기 데이터 분석 부문 대표 / 2023.01 ~ 2023.07
@@ -97,4 +100,4 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjwshin0908&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=b3e5e6&height=90&section=footer) 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=b3e5e6&height=90&section=footer)
