@@ -2,7 +2,7 @@
 
 ## About Me
 **:computer: Career**
-+ 현대모비스 데이터사이언스팀 인턴(Hyundai Mobis Company, Data Science Team, Assistant Manager) / 2023.08 ~ ing
++ 현대모비스 데이터사이언스팀 인턴(Hyundai Mobis Company, Data Science Team, Assistant Manager) / 2023.08 ~
 
 **:books: Experience**
 + 2023 제15회 FIELD CAMP / 2023.08
