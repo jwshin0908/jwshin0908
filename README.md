@@ -21,7 +21,8 @@
 + 정보기술자격(ITQ, Information Technology Qualification) OA Master / 2012.01
 
 **:trophy: Awards**
-+ [2023년 추계 학술대회 우수발표논문상(한국품질경영학회 주관) / 2023.11](https://github.com/jwshin0908/Activities_Matching_System_Free_Semester)
++ [제11회 2023 빅콘테스트 정형데이터분석분야 어드밴스드리그, 대상(과학기술정보통신부장관상) / 2023.12](https://github.com/jwshin0908/BigContest_2023)
++ [2023년 한국품질경영학회 추계 학술대회 우수발표논문상 / 2023.11](https://github.com/jwshin0908/Activities_Matching_System_Free_Semester)
 + [2023 FIELD CAMP Competition(대한산업공학회 주관), 우수상 / 2023.08](https://github.com/jwshin0908/FIELD_2023)
 + [2023 지역 치안 안전 데이터 분석 경진대회(경찰대학 주관), 최우수상 / 2023.02](https://github.com/jwshin0908/local_security_competition)
 + [제16회 한국대학생 산업공학 프로젝트 경진대회(대한산업공학회 주관), 금상 / 2020.11](https://github.com/jwshin0908/IE_project_competition)
