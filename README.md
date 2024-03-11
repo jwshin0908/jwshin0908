@@ -9,7 +9,6 @@
 + LG Aimers 3기 / 2023.07 ~ 2023.08
 + 빅데이터 연합동아리 BOAZ 19기 데이터 분석 부문 대표 / 2023.01 ~ 2023.07
 + 빅데이터 연합동아리 BOAZ 19기 데이터 분석, 시각화 부문 팀원, 운영지원팀 / 2022.07 ~ 2023.01
-+ 모두의연구소 서포터즈 1기 / 2022.07 ~ 2023.07
 + 한국대학생IT경영학회(KUSITMS) 22기 교육기획팀 / 2020.06 ~ 2020.11
 + 한국대학생IT경영학회(KUSITMS) 21기 학회원 / 2020.02 ~ 2020.06
 
@@ -79,6 +78,8 @@
   
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white"/>
 
 <br>
@@ -86,10 +87,10 @@
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
-  
-<img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/>
-  
+
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/>
 
 </div>
 
