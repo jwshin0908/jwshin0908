@@ -21,7 +21,6 @@
 + SQL 개발자(SQLD, SQL Developer) / 2022.06
 + 데이터분석 준전문가(ADsP, Advanced Data Analytics Semi-Professional) / 2021.12
 + 워드프로세서(Word Processor Specialist) / 2020.03
-+ 정보기술자격(ITQ, Information Technology Qualification) OA Master / 2012.01
 
 **:trophy: Awards**
 + [제11회 2023 빅콘테스트 정형데이터분석분야 어드밴스드리그, 대상(과학기술정보통신부장관상) / 2023.12](https://github.com/jwshin0908/BigContest_2023)
