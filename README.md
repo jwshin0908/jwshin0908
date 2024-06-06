@@ -1,3 +1,5 @@
+<br>
+
 ## About Me
 **:computer: Career**
 + 현대모비스 데이터사이언스팀 인턴(Hyundai Mobis Company, Assistant Manager of Data Science Team) / `2023.08 ~ 2024.02`
