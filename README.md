@@ -2,33 +2,33 @@
 
 ## About Me
 **:computer: Career**
-+ 현대모비스 데이터사이언스팀 인턴(Hyundai Mobis Company, Assistant Manager of Data Science Team) / 2023.08 ~ 2024.02
++ 현대모비스 데이터사이언스팀 인턴(Hyundai Mobis Company, Assistant Manager of Data Science Team) / `2023.08 ~ 2024.02`
 
 **:books: Experience**
-+ SK AI Data Academy 1기 / 2024.07 ~
-+ 2023 제15회 FIELD CAMP / 2023.08
-+ LG Aimers 3기 / 2023.07 ~ 2023.08
-+ 빅데이터 연합동아리 BOAZ 19기 데이터 분석 부문 대표 / 2023.01 ~ 2023.07
-+ 빅데이터 연합동아리 BOAZ 19기 데이터 분석, 시각화 부문 팀원, 운영지원팀 / 2022.07 ~ 2023.01
-+ 한국대학생IT경영학회(KUSITMS) 22기 교육기획팀 / 2020.06 ~ 2020.11
-+ 한국대학생IT경영학회(KUSITMS) 21기 학회원 / 2020.02 ~ 2020.06
++ SK AI Data Academy 1기 / `2024.07 ~`
++ 2023 제15회 FIELD CAMP / `2023.08`
++ LG Aimers 3기 / `2023.07 ~ 2023.08`
++ 빅데이터 연합동아리 BOAZ 19기 데이터 분석 부문 대표 / `2023.01 ~ 2023.07`
++ 빅데이터 연합동아리 BOAZ 19기 데이터 분석, 시각화 부문 팀원, 운영지원팀 / `2022.07 ~ 2023.01`
++ 한국대학생IT경영학회(KUSITMS) 22기 교육기획팀 / `2020.06 ~ 2020.11`
++ 한국대학생IT경영학회(KUSITMS) 21기 학회원 / `2020.02 ~ 2020.06`
 
 **:mortar_board: Major**  
 + 연세대학교 산업공학과 / 응용통계학과  
-(Department of Industrial Engineering / Applied Statistics at Yonsei University, Korea) / 2019.03 ~
+(Department of Industrial Engineering / Applied Statistics at Yonsei University, Korea) / `2019.03 ~`
 
 **:clipboard: Certificates**
-+ 빅데이터분석기사 / 2023.12
-+ SQL 개발자(SQLD, SQL Developer) / 2022.06
-+ 데이터분석 준전문가(ADsP, Advanced Data Analytics Semi-Professional) / 2021.12
-+ 워드프로세서(Word Processor Specialist) / 2020.03
++ 빅데이터분석기사 / `2023.12`
++ SQL 개발자(SQLD, SQL Developer) / `2022.06`
++ 데이터분석 준전문가(ADsP, Advanced Data Analytics Semi-Professional) / `2021.12`
++ 워드프로세서(Word Processor Specialist) / `2020.03`
 
 **:trophy: Awards**
-+ 제11회 2023 빅콘테스트 정형데이터분석분야 어드밴스드리그, **[대상(과학기술정보통신부장관상)](https://github.com/jwshin0908/BigContest_2023)** / 2023.12
-+ 2023년 한국품질경영학회 추계 학술대회 **[우수발표논문상](https://github.com/jwshin0908/Activities_Matching_System_Free_Semester)** / 2023.11
-+ 2023 FIELD CAMP Competition(대한산업공학회 주관), **[우수상](https://github.com/jwshin0908/FIELD_2023)** / 2023.08
-+ 2023 지역 치안 안전 데이터 분석 경진대회(경찰대학 주관), **[최우수상](https://github.com/jwshin0908/local_security_competition)** / 2023.02
-+ 제16회 한국대학생 산업공학 프로젝트 경진대회(대한산업공학회 주관), **[금상](https://github.com/jwshin0908/IE_project_competition)** / 2020.11
++ 제11회 2023 빅콘테스트 정형데이터분석분야 어드밴스드리그, **[대상(과학기술정보통신부장관상)](https://github.com/jwshin0908/BigContest_2023)** / `2023.12`
++ 2023년 한국품질경영학회 추계 학술대회 **[우수발표논문상](https://github.com/jwshin0908/Activities_Matching_System_Free_Semester)** / `2023.11`
++ 2023 FIELD CAMP Competition(대한산업공학회 주관), **[우수상](https://github.com/jwshin0908/FIELD_2023)** / `2023.08`
++ 2023 지역 치안 안전 데이터 분석 경진대회(경찰대학 주관), **[최우수상](https://github.com/jwshin0908/local_security_competition)** / `2023.02`
++ 제16회 한국대학생 산업공학 프로젝트 경진대회(대한산업공학회 주관), **[금상](https://github.com/jwshin0908/IE_project_competition)** / `2020.11`
 <br>
 
 ## Skills & Tools
