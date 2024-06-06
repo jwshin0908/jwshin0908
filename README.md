@@ -5,6 +5,7 @@
 + 현대모비스 데이터사이언스팀 인턴(Hyundai Mobis Company, Assistant Manager of Data Science Team) / 2023.08 ~ 2024.02
 
 **:books: Experience**
++ SK AI Data Academy 1기 / 2024.07 ~
 + 2023 제15회 FIELD CAMP / 2023.08
 + LG Aimers 3기 / 2023.07 ~ 2023.08
 + 빅데이터 연합동아리 BOAZ 19기 데이터 분석 부문 대표 / 2023.01 ~ 2023.07
