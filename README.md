@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=b3e5e6&height=200&section=header&text=Jaewook%20Shin&fontSize=60)
-
 ## About Me
 **:computer: Career**
 + 현대모비스 데이터사이언스팀 인턴(Hyundai Mobis Company, Assistant Manager of Data Science Team) / `2023.08 ~ 2024.02`
