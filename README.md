@@ -2,7 +2,7 @@
 
 ## About Me
 **:computer: Career**
-+ `2024.06 ~ 2024.08` 한화생명 데이터분석 인턴(Hanwha Life Insurance Co.)
++ `2024.06 ~ 2024.08` 한화생명 데이터분석 인턴(Hanwha Life Insurance Company)
 + `2023.08 ~ 2024.02` 현대모비스 데이터사이언스팀 인턴(Hyundai Mobis Company, Assistant Manager of Data Science Team)
 
 **:books: Experience**
