@@ -19,8 +19,8 @@
 (Department of Industrial Engineering / Applied Statistics at Yonsei University, Korea)
 
 **:clipboard: Certificates**
-+ `2024.06` 정보처리기사
-+ `2023.12` 빅데이터분석기사
++ `2024.06` 정보처리기사(Engineer Information Processing)
++ `2023.12` 빅데이터분석기사(Engineer Big Data Analysis)
 + `2022.06` SQL 개발자(SQLD, SQL Developer)
 + `2021.12` 데이터분석 준전문가(ADsP, Advanced Data Analytics Semi-Professional)
 + `2020.03` 워드프로세서(Word Processor Specialist) 
