@@ -2,6 +2,7 @@
 
 ## About Me
 **:computer: Career**
++ `2025.01 ~` 코리안리재보험(Korean Reinsurance Company)
 + `2024.06 ~ 2024.08` 한화생명 Data LAB 인턴(Hanwha Life Insurance Company, Internship at Data LAB)
 + `2023.08 ~ 2024.02` 현대모비스 데이터사이언스팀 인턴(Hyundai Mobis Company, Internship at Data Science Team)
 
